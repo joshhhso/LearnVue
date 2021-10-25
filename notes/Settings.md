@@ -4,6 +4,10 @@
 
 - chekt0327!
 
+**현관문**
+
+- 070809
+
 ***
 
 **설치 프로그램 [업무]**
@@ -16,7 +20,7 @@
 
 - AppStore
 
-- - Expensify
+  - Expensify
 
 ***
 
@@ -30,7 +34,7 @@
 
 - Appstore
 
-- - Kakao
+  - Kakao
   - WeatherBug
   - Befocused
 
@@ -44,3 +48,9 @@
 - Github
   - Token : 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
 
+***
+
+**Vue.js**
+
+- Vue.js devtools : chrome extention
+- 
